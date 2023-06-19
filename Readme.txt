@@ -1,4 +1,2 @@
-HELLO 
-THIS IS A TEST CODE
-
-TEST
+Please ignore all files. 
+Those are generated for test. 
